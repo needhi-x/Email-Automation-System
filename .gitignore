@@ -8,8 +8,7 @@ __pycache__/
 # Logs
 logs/
 
-# Outputs (optional)
-outputs/
+
 
 # System files
 .DS_Store
