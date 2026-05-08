@@ -90,7 +90,7 @@ streamlit run app.py
 - Emails are sent automatically
 - Report generated in:
 
-outputs/report.csv
+(outputs/report.csv)
 
 ---
 
