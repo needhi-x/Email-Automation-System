@@ -1,0 +1,12 @@
+Hello {name},
+
+This is a reminder for:
+
+{message}
+
+Date: {date}
+
+Stay consistent and keep growing 🚀
+
+Regards,  
+Your Automation System
